@@ -18,7 +18,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Email please....<3</label>
+          <label>Email Dhalo ji thoda...</label>
         </div>
         <div class="form-control">
           <input type="password" required />
